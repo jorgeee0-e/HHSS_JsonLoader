@@ -1,0 +1,167 @@
+:host {
+    max-width: 1280px;
+    text-align: center;
+}
+
+th, td {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+table {
+    margin: 0 auto;
+}
+
+
+/* NAV BAR */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  padding: 10px;
+}
+
+  .navbar .logo {
+    display: flex;
+    align-items: center;
+  }
+
+    .navbar .logo img {
+      height: 40px;
+      margin-right: 10px;
+    }
+
+  .navbar .menu {
+    display: flex;
+    align-items: center;
+  }
+
+    .navbar .menu a {
+      color: white;
+      padding: 14px 20px;
+      text-decoration: none;
+      display: block;
+    }
+
+.perfil {
+  color: white;
+}
+
+  .navbar .menu a:hover,
+  .perfil:hover {
+    background-color: #575757;
+    border-radius: 10px;
+  }
+
+.navbar .perfil {
+  position: relative;
+}
+
+  .navbar .perfil img {
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+
+.desplegable {
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.navbar .perfil .desplegable {
+  display: none;
+  position: absolute;
+  right: 0;
+  background-color: white;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+  .navbar .perfil .desplegable a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+
+    .navbar .perfil .desplegable a:hover {
+      background-color: #ddd;
+    }
+
+.navbar .perfil:hover .desplegable {
+  display: block;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 600px) {
+  .navbar .menu {
+    flex-direction: column;
+    width: 100%;
+    display: none;
+  }
+
+    .navbar .menu a {
+      text-align: center;
+      padding: 10px;
+      border-top: 1px solid #444;
+    }
+
+      .navbar .menu a:first-child {
+        border-top: none;
+      }
+
+  .navbar .menu-toggle {
+    display: block;
+    cursor: pointer;
+  }
+
+    .navbar .menu-toggle div {
+      width: 25px;
+      height: 3px;
+      background-color: white;
+      margin: 5px 0;
+    }
+
+  .perfil {
+    display: none;
+  }
+}
+
+.contenido-perfil {
+  display: flex;
+}
+
+.contenido-perfil p {
+  margin: auto 10px auto 10px;
+}
+
+.menu-toggle {
+  display: none;
+}
+/* Asegúrate de que el menú esté oculto por defecto */
+/*.file-list {
+  display: none;*/ /* Oculta la lista inicialmente */
+  /*list-style-type: none;
+  padding: 0;
+  margin: 0;
+  padding: 0;
+  margin: 0;
+  position: absolute;*/ /* Posiciona el menú en relación con el botón */
+  /*top: 100%;*/ /* Coloca el menú justo debajo del botón */
+  /*left: 0;*/ /* Ajusta la posición a la izquierda del botón */
+  /*background-color: white;*/ /* Color de fondo para el menú */
+  /*border: 1px solid #ccc;*/ /* Borde para el menú */
+  /*z-index: 1000;*/ /* Asegura que el menú esté sobre otros elementos */
+/*}*/
+
+  /*.file-list.show {
+    display: block;*/ /* Muestra la lista cuando se aplica la clase "show" */
+  /*}*/
+
+/* Estilos para el icono de hamburguesa */
+/*.menu-toggle {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}*/

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\jsonReader_Angular.Server.props" />
+</Project>

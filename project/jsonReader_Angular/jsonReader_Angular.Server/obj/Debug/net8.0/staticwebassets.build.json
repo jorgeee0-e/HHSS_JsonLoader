@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "B7/sUnQIIA7Fn8NIf1m/kBZ/lq2cU+qiyOo1GptV5jw=",
+  "Source": "jsonReader_Angular.Server",
+  "BasePath": "_content/jsonReader_Angular.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computación\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonreader_angular.client\\jsonreader_angular.client.esproj",
+      "Version": 2,
+      "Source": "jsonreader_angular.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

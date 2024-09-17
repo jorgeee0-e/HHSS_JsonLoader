@@ -1,0 +1,17 @@
+<div class="container">
+  <div  class="dropdown mt-3">
+    <button #dropd class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Seleccione el tipo de DTE
+    </button>
+    <ul class="dropdown-menu">
+      <li *ngFor="let tipo of tipos; let i=index"><a class="dropdown-item" id="{{tipo[0]}}" (click)="getTipoDTE(tipo[1],tipo[0])">{{tipo[1]}}</a></li>
+    </ul>
+  </div>
+  <div #grafico id="grafico">
+    <canvas #forChart id="line-chart" class="text-center mt-3">
+    </canvas>
+  </div>
+      
+
+</div>
+

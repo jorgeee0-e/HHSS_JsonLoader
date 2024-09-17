@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.4.0/css/all.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+<link rel="stylesheet" href="style.css">
+<body>
+
+    
+   
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <div class="mt-3" id="drop-area">
+                <div class="drop-icon">
+                  <i class="fa-light fa-file-upload"></i>
+                </div>
+                <div class="drop-text">Agregar archivos a cargar</div>
+              </div>    
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <form id="fileForm" action="#" method="POST">
+                <div class="file-input-box mt-5">
+                    <div class="wrapper-file-section">
+                        <div class="selected-files" id="selectedFiles">
+                            <h5>Selected Files</h5>
+                            <ul class="file-list" id="file-list"> 
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="offset-md-5">
+                            <button type="button" class="btn btn-secondary">Cargar</button>
+                        </div>
+                        
+                    </div>
+                    
+                </div>
+                
+            </form>
+            
+            
+        </div>
+    </div>
+        
+</div>
+    
+<textarea id="dropped-content" maxlength="5000" spellcheck="true" style="display: none;"></textarea>
+<div id="chars" style="display: none;">0/5000</div>
+<div id="spellcheck">
+  <div id="outer-dot" style="display: none;">
+    <div id="dot"></div>
+  </div>
+  <!-- <div id="label">Spellcheck</div> -->
+
+    
+</body>
+<script src="scripts.js"></script>
+</html>

@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computación\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonReader_Angular.Server\\..\\jsonreader_angular.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

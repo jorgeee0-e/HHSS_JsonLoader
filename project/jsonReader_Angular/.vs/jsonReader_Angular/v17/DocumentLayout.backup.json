@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AFF0AE-7B9C-44E6-853B-EB4A2651189E}|jsonreader_angular.client\\jsonreader_angular.client.esproj|c:\\users\\administrador\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\horassociales\\etl_jsondtes\\project\\jsonreader_angular\\jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B3AFF0AE-7B9C-44E6-853B-EB4A2651189E}|jsonreader_angular.client\\jsonreader_angular.client.esproj|solutionrelative:jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "grafico.component.ts",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.ts",
+              "RelativeDocumentMoniker": "jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.ts",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.ts",
+              "RelativeToolTip": "jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-09T07:16:40.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\API\\API_JSON_FILES\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05EC6338-5043-4648-89A2-DC1E030D9448}|API_JSON_FILES\\API_JSON_FILES.csproj|c:\\users\\administrador\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\horassociales\\etl_jsondtes\\api\\api_json_files\\api_json_files\\controllers\\dtecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EC6338-5043-4648-89A2-DC1E030D9448}|API_JSON_FILES\\API_JSON_FILES.csproj|solutionrelative:api_json_files\\controllers\\dtecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EC6338-5043-4648-89A2-DC1E030D9448}|API_JSON_FILES\\API_JSON_FILES.csproj|c:\\users\\administrador\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\horassociales\\etl_jsondtes\\api\\api_json_files\\api_json_files\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05EC6338-5043-4648-89A2-DC1E030D9448}|API_JSON_FILES\\API_JSON_FILES.csproj|solutionrelative:api_json_files\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EC6338-5043-4648-89A2-DC1E030D9448}|API_JSON_FILES\\API_JSON_FILES.csproj|c:\\users\\administrador\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\horassociales\\etl_jsondtes\\api\\api_json_files\\api_json_files\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EC6338-5043-4648-89A2-DC1E030D9448}|API_JSON_FILES\\API_JSON_FILES.csproj|solutionrelative:api_json_files\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EC6338-5043-4648-89A2-DC1E030D9448}|API_JSON_FILES\\API_JSON_FILES.csproj|c:\\users\\administrador\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\horassociales\\etl_jsondtes\\api\\api_json_files\\api_json_files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EC6338-5043-4648-89A2-DC1E030D9448}|API_JSON_FILES\\API_JSON_FILES.csproj|solutionrelative:api_json_files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EC6338-5043-4648-89A2-DC1E030D9448}|API_JSON_FILES\\API_JSON_FILES.csproj|c:\\users\\administrador\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\horassociales\\etl_jsondtes\\api\\api_json_files\\api_json_files\\api_json_files.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{05EC6338-5043-4648-89A2-DC1E030D9448}|API_JSON_FILES\\API_JSON_FILES.csproj|solutionrelative:api_json_files\\api_json_files.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DTEController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\API\\API_JSON_FILES\\API_JSON_FILES\\Controllers\\DTEController.cs",
+              "RelativeDocumentMoniker": "API_JSON_FILES\\Controllers\\DTEController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\API\\API_JSON_FILES\\API_JSON_FILES\\Controllers\\DTEController.cs",
+              "RelativeToolTip": "API_JSON_FILES\\Controllers\\DTEController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:50:12.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\API\\API_JSON_FILES\\API_JSON_FILES\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "API_JSON_FILES\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\API\\API_JSON_FILES\\API_JSON_FILES\\WeatherForecast.cs",
+              "RelativeToolTip": "API_JSON_FILES\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:26:00.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\API\\API_JSON_FILES\\API_JSON_FILES\\Program.cs",
+              "RelativeDocumentMoniker": "API_JSON_FILES\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\API\\API_JSON_FILES\\API_JSON_FILES\\Program.cs",
+              "RelativeToolTip": "API_JSON_FILES\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:25:57.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\API\\API_JSON_FILES\\API_JSON_FILES\\appsettings.json",
+              "RelativeDocumentMoniker": "API_JSON_FILES\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\API\\API_JSON_FILES\\API_JSON_FILES\\appsettings.json",
+              "RelativeToolTip": "API_JSON_FILES\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T05:25:55.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "API_JSON_FILES.http",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\API\\API_JSON_FILES\\API_JSON_FILES\\API_JSON_FILES.http",
+              "RelativeDocumentMoniker": "API_JSON_FILES\\API_JSON_FILES.http",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\API\\API_JSON_FILES\\API_JSON_FILES\\API_JSON_FILES.http",
+              "RelativeToolTip": "API_JSON_FILES\\API_JSON_FILES.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-11T05:25:52.215Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

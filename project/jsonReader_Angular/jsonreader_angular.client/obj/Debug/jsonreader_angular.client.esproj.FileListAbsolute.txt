@@ -1,0 +1,1 @@
+C:\Users\Administrador\OneDrive - Universidad Don Bosco\UDB - CC Computación\HorasSociales\ETL_JSONDTEs\project\jsonReader_Angular\jsonreader_angular.client\obj\Debug\jsonreader_angular.client.esproj.CoreCompileInputs.cache

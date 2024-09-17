@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AFF0AE-7B9C-44E6-853B-EB4A2651189E}|jsonreader_angular.client\\jsonreader_angular.client.esproj|c:\\users\\administrador\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\horassociales\\etl_jsondtes\\project\\jsonreader_angular\\jsonreader_angular.client\\src\\app\\components\\dte\\dte.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B3AFF0AE-7B9C-44E6-853B-EB4A2651189E}|jsonreader_angular.client\\jsonreader_angular.client.esproj|solutionrelative:jsonreader_angular.client\\src\\app\\components\\dte\\dte.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AFF0AE-7B9C-44E6-853B-EB4A2651189E}|jsonreader_angular.client\\jsonreader_angular.client.esproj|c:\\users\\administrador\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\horassociales\\etl_jsondtes\\project\\jsonreader_angular\\jsonreader_angular.client\\src\\app\\components\\dte\\dte.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3AFF0AE-7B9C-44E6-853B-EB4A2651189E}|jsonreader_angular.client\\jsonreader_angular.client.esproj|solutionrelative:jsonreader_angular.client\\src\\app\\components\\dte\\dte.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AFF0AE-7B9C-44E6-853B-EB4A2651189E}|jsonreader_angular.client\\jsonreader_angular.client.esproj|c:\\users\\administrador\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\horassociales\\etl_jsondtes\\project\\jsonreader_angular\\jsonreader_angular.client\\src\\app\\services\\chartsrv\\chart.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B3AFF0AE-7B9C-44E6-853B-EB4A2651189E}|jsonreader_angular.client\\jsonreader_angular.client.esproj|solutionrelative:jsonreader_angular.client\\src\\app\\services\\chartsrv\\chart.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AFF0AE-7B9C-44E6-853B-EB4A2651189E}|jsonreader_angular.client\\jsonreader_angular.client.esproj|c:\\users\\administrador\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\horassociales\\etl_jsondtes\\project\\jsonreader_angular\\jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B3AFF0AE-7B9C-44E6-853B-EB4A2651189E}|jsonreader_angular.client\\jsonreader_angular.client.esproj|solutionrelative:jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AFF0AE-7B9C-44E6-853B-EB4A2651189E}|jsonreader_angular.client\\jsonreader_angular.client.esproj|c:\\users\\administrador\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\horassociales\\etl_jsondtes\\project\\jsonreader_angular\\jsonreader_angular.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B3AFF0AE-7B9C-44E6-853B-EB4A2651189E}|jsonreader_angular.client\\jsonreader_angular.client.esproj|solutionrelative:jsonreader_angular.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AFF0AE-7B9C-44E6-853B-EB4A2651189E}|jsonreader_angular.client\\jsonreader_angular.client.esproj|c:\\users\\administrador\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\horassociales\\etl_jsondtes\\project\\jsonreader_angular\\jsonreader_angular.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B3AFF0AE-7B9C-44E6-853B-EB4A2651189E}|jsonreader_angular.client\\jsonreader_angular.client.esproj|solutionrelative:jsonreader_angular.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AFF0AE-7B9C-44E6-853B-EB4A2651189E}|jsonreader_angular.client\\jsonreader_angular.client.esproj|c:\\users\\administrador\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\horassociales\\etl_jsondtes\\project\\jsonreader_angular\\jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3AFF0AE-7B9C-44E6-853B-EB4A2651189E}|jsonreader_angular.client\\jsonreader_angular.client.esproj|solutionrelative:jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AFF0AE-7B9C-44E6-853B-EB4A2651189E}|jsonreader_angular.client\\jsonreader_angular.client.esproj|c:\\users\\administrador\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\horassociales\\etl_jsondtes\\project\\jsonreader_angular\\jsonreader_angular.client\\src\\app\\services\\interfaces\\interfaces.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B3AFF0AE-7B9C-44E6-853B-EB4A2651189E}|jsonreader_angular.client\\jsonreader_angular.client.esproj|solutionrelative:jsonreader_angular.client\\src\\app\\services\\interfaces\\interfaces.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AFF0AE-7B9C-44E6-853B-EB4A2651189E}|jsonreader_angular.client\\jsonreader_angular.client.esproj|c:\\users\\administrador\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\horassociales\\etl_jsondtes\\project\\jsonreader_angular\\jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B3AFF0AE-7B9C-44E6-853B-EB4A2651189E}|jsonreader_angular.client\\jsonreader_angular.client.esproj|solutionrelative:jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dte.component.html",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonreader_angular.client\\src\\app\\components\\dte\\dte.component.html",
+              "RelativeDocumentMoniker": "jsonreader_angular.client\\src\\app\\components\\dte\\dte.component.html",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonreader_angular.client\\src\\app\\components\\dte\\dte.component.html",
+              "RelativeToolTip": "jsonreader_angular.client\\src\\app\\components\\dte\\dte.component.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-17T05:32:37.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dte.component.ts",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonreader_angular.client\\src\\app\\components\\dte\\dte.component.ts",
+              "RelativeDocumentMoniker": "jsonreader_angular.client\\src\\app\\components\\dte\\dte.component.ts",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonreader_angular.client\\src\\app\\components\\dte\\dte.component.ts",
+              "RelativeToolTip": "jsonreader_angular.client\\src\\app\\components\\dte\\dte.component.ts",
+              "ViewState": "AgIAAMAAAAAAAAAAAAApwPsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-17T05:19:11.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonreader_angular.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "jsonreader_angular.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonreader_angular.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "jsonreader_angular.client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-17T05:02:07.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "chart.service.ts",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonreader_angular.client\\src\\app\\services\\chartSrv\\chart.service.ts",
+              "RelativeDocumentMoniker": "jsonreader_angular.client\\src\\app\\services\\chartSrv\\chart.service.ts",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonreader_angular.client\\src\\app\\services\\chartSrv\\chart.service.ts",
+              "RelativeToolTip": "jsonreader_angular.client\\src\\app\\services\\chartSrv\\chart.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-17T04:58:30.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "grafico.component.css",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.css",
+              "RelativeDocumentMoniker": "jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.css",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.css",
+              "RelativeToolTip": "jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-17T04:38:20.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Interfaces.ts",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonreader_angular.client\\src\\app\\services\\Interfaces\\Interfaces.ts",
+              "RelativeDocumentMoniker": "jsonreader_angular.client\\src\\app\\services\\Interfaces\\Interfaces.ts",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonreader_angular.client\\src\\app\\services\\Interfaces\\Interfaces.ts",
+              "RelativeToolTip": "jsonreader_angular.client\\src\\app\\services\\Interfaces\\Interfaces.ts",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-17T02:53:19.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "grafico.component.html",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.html",
+              "RelativeDocumentMoniker": "jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.html",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.html",
+              "RelativeToolTip": "jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-17T02:02:12.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonreader_angular.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "jsonreader_angular.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonreader_angular.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "jsonreader_angular.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-17T02:01:03.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "grafico.component.ts",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.ts",
+              "RelativeDocumentMoniker": "jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.ts",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\HorasSociales\\ETL_JSONDTEs\\project\\jsonReader_Angular\\jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.ts",
+              "RelativeToolTip": "jsonreader_angular.client\\src\\app\\components\\grafico\\grafico.component.ts",
+              "ViewState": "AgIAAIIAAAAAAAAAAAASwJkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-09T07:16:40.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

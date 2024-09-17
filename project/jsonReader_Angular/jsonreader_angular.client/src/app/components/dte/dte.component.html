@@ -1,0 +1,101 @@
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 offset-md-3">
+        <div class="mt-3" id="drop-area" (click)="openFileDialog()"> <!--aca debe darse clic para poder cargar archivos-->
+          <div class="drop-icon">
+            <i class="fa-light fa-file-upload"></i>
+          </div>
+          <div class="drop-text">Agregar archivos a cargar</div> 
+        </div>
+        <input type="file" #fileInput (change)="handleSelectedFiles($event)" style="display:none" multiple accept="application/json" />
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 offset-md-3">
+        <form id="fileForm" action="#" method="POST">
+          <div class="file-input-box mt-5">
+            <div class="wrapper-file-section">
+              <div class="selected-files" id="selectedFiles">
+                <h5>Selected Files</h5>
+                <ul class="file-list" #fileList>
+                </ul>
+              </div>
+            </div>
+            <div class="row">
+              <div class="offset-md-5 text-center">
+                <!--<button type="button" #loadButton (click)="loadFiles($event)" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#modalTabla">Cargar</button>-->
+                <button type="button" #loadButton (click)="loadFiles($event)" class="btn btn-secondary">Cargar</button>
+              </div>
+            </div>
+          </div>
+        </form>
+
+        <!--<div class="modal" id="modalTabla" tabindex="-1">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title">DTE Elements</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body">
+                <table>
+                  <thead>
+                    <tr>
+                      <th scope="col"><div class="mx-2">index</div></th>
+                      <th scope="col"><div class="mx-2">Name</div></th>
+                      <th scope="col"><div class="mx-2">codigoGeneracion</div></th>
+                      <th scope="col">nit_emisor</th>-->
+                      <!--<th scope="col">nit_receptor</th>
+                      <th scope="col">version_</th>
+                      <th scope="col">tipoDte</th>
+                      <th scope="col">numeroControl</th>
+                      <th scope="col">fecEmi</th>
+                      <th scope="col">horaEmi</th>-->
+                    <!--</tr>
+                  </thead>
+                  <tbody>
+                    <tr *ngFor="let file of files; let i= index">
+                      <td>{{i+1}}</td>
+                      <td>{{file.fileName}}</td>
+                      <td>
+                        <div class="collapsible-content" [ngClass]="{'expanded-content': file.expanded}" (click)="toggleContent(file)">-->
+                          <!--{{file.content.identificacion.codigogeneracion | json}}-->
+                        <!--</div>
+                      </td>
+                      <td>
+                        <div class="collapsible-content" [ngClass]="{'expanded-content': file.expanded}" (click)="toggleContent(file)">-->
+                          <!--{{file.content.emisor.nit | json}}-->
+                        <!--</div>
+                      </td>
+                    </tr>
+                  </tbody>
+                  <tr>
+                    <td></td>
+                  </tr>
+                </table>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>-->
+
+        
+
+
+      </div>
+    </div>
+
+  </div>
+
+<!--<textarea id="dropped-content" maxlength="5000" spellcheck="true" style="display: none;"></textarea>-->
+  <div id="chars" style="display: none;">0/5000</div>
+  <!--<div id="spellcheck">-->
+    <!--<div id="outer-dot" style="display: none;">
+      <div id="dot"></div>
+    </div>-->
+     <!--<div id="label">Spellcheck</div>--> 
